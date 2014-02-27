@@ -1,0 +1,23 @@
+.icon-greve {
+    background-image: url(../img/greve.png) !important;
+}
+
+.Carris-cell {
+    background: url(../img/carris.png) no-repeat 2px 1px !important;
+	padding-left: 16px;
+}
+
+.CP-cell {
+    background: url(../img/cp.png) no-repeat 2px 1px !important;
+	padding-left: 16px;
+}
+
+.tooltipColors {
+	background-color:blue; !importatnt;
+}
+
+/* .FT-cell {
+    background: url(../img/cp.png) no-repeat 2px 1px !important;
+	padding-left: 16px;
+} */
+

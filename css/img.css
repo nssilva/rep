@@ -1,0 +1,69 @@
+/* quando se usa a palavra !important o que acontece é que ele vai fazer o override do css original.*/
+ .icon-publico {
+    background-image: url(../img/publico.png) !important; 
+}
+.icon-refresh {
+    background-image: url(../img/refresh.png) !important; 
+}
+ 
+.icon-link {
+    background-image: url(../img/link.png) !important; 
+}
+
+.icon-remove {
+    background-image: url(../img/remove.png) !important; 
+}
+
+.icon-news {
+    background-image: url(../img/news.png) !important; 
+}
+
+.icon-print {
+    background-image: url(../img/printer.png) !important; 
+}
+
+.key{
+	background-image:url(../img/key.png) !important;
+}
+
+.user{
+	background-image:url(../img/user.png) !important;
+}
+
+.cancel{
+	background-image:url(../img/cancel.png) !important;
+}
+
+.logout{
+	background-image:url(../img/exit.png) !important;
+}
+/* .custom-grid .x-grid-row-over .x-grid-cell { 
+    background-color: lightblue/*#ff6!important; 
+    border-bottom-color: #999;
+    border-bottom-style: dashed; 
+    border-top-color: #999; 
+    border-top-style: dashed; 
+} 
+ 
+/* Grid cells in the selected row 
+.custom-grid .x-grid-row-selected .x-grid-cell { 
+    background-color: lightblue/*#ff0 !important; 
+    border-bottom-color: #999; 
+    border-bottom-style: solid; 
+    border-top-color: #999; 
+    border-top-style: solid; 
+} 
+
+.extra-alt .x-grid-row .x-grid-cell { 
+    background-color: #fff !important; 
+    color: #000 !important; 
+} 
+ 
+.extra-alt .x-grid-row-alt .x-grid-cell { 
+    background-color: #000 !important; 
+    color: #fff !important; 
+}
+
+/* body{
+	background-color:white;
+ } */
